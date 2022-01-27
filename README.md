@@ -16,4 +16,5 @@
 ## 📱 Devices in use
 [![Redmi K40](https://img.shields.io/badge/Redmi%20K40-fd4900?style=flat-square&logo=xiaomi&logoColor=ffffff)](https://www.po.co/global/poco-f3/)
 
+</br>
 <img align="right" src="https://genshin-card.getloli.com/rand/208866044.png" alt="genshin-card" />
