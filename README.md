@@ -11,7 +11,7 @@
 
 ## 💻 Working environment
 [![Android 12](https://img.shields.io/badge/Android%2012-3ddc84?style=flat-square&logo=android&logoColor=ffffff)](https://www.android.com/android-12/)
-[![iOS 16](https://img.shields.io/badge/iOS%2015-lightgrey?style=flat-square&logo=apple&logoColor=ffffff)](https://www.apple.com/ios/ios-16-preview/)
+[![iOS 16](https://img.shields.io/badge/iOS%2016-lightgrey?style=flat-square&logo=apple&logoColor=ffffff)](https://www.apple.com/ios/ios-16-preview/)
 [![Windows 11](https://shields.io/badge/Windows%2011-blue?style=flat-square&logo=Microsoft&logoColor=ffffff)](https://www.microsoft.com/en-us/windows/)
 
 ## 📱 Devices in use
