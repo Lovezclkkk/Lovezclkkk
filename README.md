@@ -16,3 +16,4 @@
 
 ## 📱 Devices in use
 [![Redmi K40](https://img.shields.io/badge/Redmi%20K40-fd4900?style=flat-square&logo=xiaomi&logoColor=ffffff)](https://www.po.co/global/poco-f3/)  
+[![iPhone 12 Mini](https://img.shields.io/badge/Redmi%20K40-fd4900?style=flat-square&logo=apple&logoColor=ffffff)](https://www.apple.com/iphone-12/key-features/)
