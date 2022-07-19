@@ -1,19 +1,34 @@
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=NightstarSakura&hide=issues&show_icons=true&include_all_commits=true&theme=vue&count_private=true" />
+## Welcome to NightstarSakura (<ゝω·) ~☆
 
-## Hi there 👋 I'm Sakura桜
-- 🌱 I’m learning Java~
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=NightstarSakura&count_private=true&show_icons=true">
+
+> Be insterested in everything\
+> <s>Sleeping~</s>
+
+> Do what I wanna do\
+> <s>Always offline</s>
+
+---
+### ![](https://cdn.jsdelivr.net/gh/primer/octicons/icons/code-24.svg "Using Operating Systems") Using Operating Systems
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NightstarSakura&layout=compact">
+
+![](https://img.shields.io/static/v1?style=for-the-badge&message=Android&color=eeeeee&logo=Android&logoColor=3ddb85&label= "Android")
+![](https://img.shields.io/static/v1?style=for-the-badge&message=iOS&color=eeeeee&logo=iOS&logoColor=black&label= "iOS")
+
+### ![](https://cdn.jsdelivr.net/gh/primer/octicons/icons/rocket-24.svg "IDEs / Editors") IDEs / Editors
+
+![](https://img.shields.io/static/v1?style=for-the-badge&message=Visual%20Studio%20Code&color=eeeeee&logo=VisualStudioCode&logoColor=0078D6&label= "Visual Studio Code")
+![](https://img.shields.io/static/v1?style=for-the-badge&message=Notepad%2B%2B&color=eeeeee&logo=Notepad%2B%2B&logoColor=90E59A&label= "Notepad++")
+![](https://img.shields.io/static/v1?style=for-the-badge&message=vim&color=eeeeee&logo=vim&logoColor=000000&label= "Vim")
+
+### ![](https://cdn.jsdelivr.net/gh/primer/octicons/icons/device-desktop-24.svg "Desktop Operating Systems") Operating Systems
+
+![](https://img.shields.io/static/v1?style=for-the-badge&message=Windows%2011&color=eeeeee&logo=Windows&logoColor=0078D6&label= "Windows 11")
+![](https://img.shields.io/static/v1?style=for-the-badge&message=macOS&color=eeeeee&logo=macOS&logoColor=black&label= "macOS")
+![](https://img.shields.io/static/v1?style=for-the-badge&message=Ubuntu&color=eeeeee&logo=Ubuntu&logoColor=orange&label= "Ubuntu")
+
+
+
+### ![](https://cdn.jsdelivr.net/gh/primer/octicons/icons/mail-24.svg "Chat With Me") Chat With Me
 - 📫 Email: 341131483@qq.com
-- I'm a student in middle school.
-
-## 🤔 What I'm doing
- - Sleeping.
- - Studying.
-
-## 💻 Working environment
-[![Android 12](https://img.shields.io/badge/Android%2012-3ddc84?style=flat-square&logo=android&logoColor=ffffff)](https://www.android.com/android-12/)
-[![iOS 16](https://img.shields.io/badge/iOS%2016-lightgrey?style=flat-square&logo=apple&logoColor=ffffff)](https://www.apple.com/ios/ios-16-preview/)
-[![Windows 11](https://shields.io/badge/Windows%2011-blue?style=flat-square&logo=Microsoft&logoColor=ffffff)](https://www.microsoft.com/en-us/windows/)
-
-## 📱 Devices in use
-[![Redmi K40](https://img.shields.io/badge/Redmi%20K40-fd4900?style=flat-square&logo=xiaomi&logoColor=ffffff)](https://www.po.co/global/poco-f3/)  
-[![iPhone 12 Mini](https://img.shields.io/badge/iPhone%2012%20Mini-fd4900?style=flat-square&logo=apple&logoColor=ffffff)](https://www.apple.com/iphone-12/key-features/)
+- 🚀 Telegram: @NightstarSakura
