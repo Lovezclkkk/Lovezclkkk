@@ -1,4 +1,4 @@
-## Welcome to NightstarSakura (<ゝω·) ~☆
+## Welcome to Sakura桜 (<ゝω·) ~☆
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=NightstarSakura&count_private=true&show_icons=true">
 
