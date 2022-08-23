@@ -10,7 +10,6 @@
 
 ---
 ### ![](https://cdn.jsdelivr.net/gh/primer/octicons/icons/code-24.svg "Using Operating Systems") Using Operating Systems
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SakuraNotStupid&layout=compact">
 
 ![](https://img.shields.io/static/v1?style=for-the-badge&message=Android&color=eeeeee&logo=Android&logoColor=3ddb85&label= "Android")
 ![](https://img.shields.io/static/v1?style=for-the-badge&message=iOS&color=eeeeee&logo=iOS&logoColor=black&label= "iOS")
@@ -31,4 +30,3 @@
 
 ### ![](https://cdn.jsdelivr.net/gh/primer/octicons/icons/mail-24.svg "Chat With Me") Chat With Me
 - 📫 Email: 341131483@qq.com
-- 🚀 Telegram: @NightstarSakura
