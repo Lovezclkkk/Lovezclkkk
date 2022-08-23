@@ -1,6 +1,6 @@
 ## Welcome to Sakura桜 (<ゝω·) ~☆
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=NightstarSakura&count_private=true&show_icons=true">
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=SakuraNotStupid&count_private=true&show_icons=true">
 
 > Be insterested in everything\
 > <s>Sleeping~</s>
@@ -10,7 +10,7 @@
 
 ---
 ### ![](https://cdn.jsdelivr.net/gh/primer/octicons/icons/code-24.svg "Using Operating Systems") Using Operating Systems
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NightstarSakura&layout=compact">
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SakuraNotStupid&layout=compact">
 
 ![](https://img.shields.io/static/v1?style=for-the-badge&message=Android&color=eeeeee&logo=Android&logoColor=3ddb85&label= "Android")
 ![](https://img.shields.io/static/v1?style=for-the-badge&message=iOS&color=eeeeee&logo=iOS&logoColor=black&label= "iOS")
