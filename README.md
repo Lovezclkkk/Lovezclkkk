@@ -26,7 +26,3 @@
 ![](https://img.shields.io/static/v1?style=for-the-badge&message=macOS&color=eeeeee&logo=macOS&logoColor=black&label= "macOS")
 ![](https://img.shields.io/static/v1?style=for-the-badge&message=Ubuntu&color=eeeeee&logo=Ubuntu&logoColor=orange&label= "Ubuntu")
 
-
-
-### ![](https://cdn.jsdelivr.net/gh/primer/octicons/icons/mail-24.svg "Chat With Me") Chat With Me
-- 📫 Email: 341131483@qq.com
