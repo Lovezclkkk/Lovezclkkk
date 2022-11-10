@@ -2,11 +2,16 @@
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=SakuraNotStupid&count_private=true&show_icons=true">
 
-> Be insterested in everything\
-> <s>Sleeping~</s>
-
-> Do what I wanna do\
-> <s>Always offline</s>
+Ｎ　　　Ｎ
+ＮＮ　　Ｎ
+ＮＮ　　Ｎ　　ｙ　　　ｙ　　ａａａａ
+Ｎ　Ｎ　Ｎ　　ｙ　　　ｙ　　　　　　ａ
+Ｎ　Ｎ　Ｎ　　ｙ　　　ｙ　　　　　　ａ
+Ｎ　　ＮＮ　　　ｙ　ｙ　　　　ａａａａ
+Ｎ　　ＮＮ　　　ｙ　ｙ　　　ａ　　　ａ
+Ｎ　　　Ｎ　　　　ｙ　　　　ａ　　　ａ
+Ｎ　　　Ｎ　　　　ｙ　　　　　ａａａａ
+　　　　　　　ｙｙ
 
 ---
 ### ![](https://cdn.jsdelivr.net/gh/primer/octicons/icons/code-24.svg "Using Operating Systems") Using Operating Systems
