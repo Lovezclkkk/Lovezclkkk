@@ -14,7 +14,6 @@
 Ｎ　　　Ｎ　　　　ｙ　　　　　ａａａａ
 　　　　　　　ｙｙ
 ````
-　　　　　　　ｙｙ
 
 ---
 ### ![](https://cdn.jsdelivr.net/gh/primer/octicons/icons/code-24.svg "Using Operating Systems") Using Operating Systems
