@@ -2,6 +2,7 @@
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=SakuraNotStupid&count_private=true&show_icons=true">
 
+````text
 Ｎ　　　Ｎ
 ＮＮ　　Ｎ
 ＮＮ　　Ｎ　　ｙ　　　ｙ　　ａａａａ
@@ -11,6 +12,8 @@
 Ｎ　　ＮＮ　　　ｙ　ｙ　　　ａ　　　ａ
 Ｎ　　　Ｎ　　　　ｙ　　　　ａ　　　ａ
 Ｎ　　　Ｎ　　　　ｙ　　　　　ａａａａ
+　　　　　　　ｙｙ
+````
 　　　　　　　ｙｙ
 
 ---
