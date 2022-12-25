@@ -25,12 +25,11 @@
 
 ![](https://img.shields.io/static/v1?style=for-the-badge&message=Visual%20Studio%20Code&color=eeeeee&logo=VisualStudioCode&logoColor=0078D6&label= "Visual Studio Code")
 ![](https://img.shields.io/static/v1?style=for-the-badge&message=Notepad%2B%2B&color=eeeeee&logo=Notepad%2B%2B&logoColor=90E59A&label= "Notepad++")
-![](https://img.shields.io/static/v1?style=for-the-badge&message=vim&color=eeeeee&logo=vim&logoColor=000000&label= "Vim")
+![](https://img.shields.io/static/v1?style=for-the-badge&message=Nano&color=eeeeee&logo=nano&logoColor=000000&label= "Nano")
 
 ### ![](https://cdn.jsdelivr.net/gh/primer/octicons/icons/device-desktop-24.svg "Desktop Operating Systems") Operating Systems
 
 ![](https://img.shields.io/static/v1?style=for-the-badge&message=Windows%2010&color=eeeeee&logo=Windows&logoColor=0078D6&label= "Windows 10")
-![](https://img.shields.io/static/v1?style=for-the-badge&message=macOS&color=eeeeee&logo=macOS&logoColor=black&label= "macOS")
 ![](https://img.shields.io/static/v1?style=for-the-badge&message=Ubuntu&color=eeeeee&logo=Ubuntu&logoColor=orange&label= "Ubuntu")
 
 
