@@ -33,7 +33,7 @@
 ![](https://img.shields.io/static/v1?style=for-the-badge&message=Ubuntu&color=eeeeee&logo=Ubuntu&logoColor=orange&label= "Ubuntu")
 
 ### 📱 Devices
-[![Xiaomi 8SE](https://img.shields.io/badge/Xiaomi%208SE-ED9121?style=flat-square&logo=xiaomi&logoColor=FFFFFF&labelColor=ED9121)](https://www.mi.com/mi8i/specs)
+[![Xiaomi MI 8 SE](https://img.shields.io/badge/Xiaomi%20MI%208%20SE-ED9121?style=flat-square&logo=xiaomi&logoColor=FFFFFF&labelColor=ED9121)](https://www.mi.com/mi8i/specs)
 [![iPhone 13 Mini](https://img.shields.io/badge/iPhone%2013%20Mini-4F4F4F?style=flat-square&logo=apple&logoColor=FFFFFF&labelColor=4F4F4F)](https://www.apple.com/iphone-13/specs/)
 
 ### ![](https://cdn.jsdelivr.net/gh/primer/octicons/icons/mail-24.svg "Chat With Me") Chat With Me
