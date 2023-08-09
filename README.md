@@ -18,23 +18,22 @@
 ---
 ### ![](https://cdn.jsdelivr.net/gh/primer/octicons/icons/code-24.svg "Using Operating Systems") Using Operating Systems
 
-![](https://img.shields.io/static/v1?style=for-the-badge&message=Android&color=eeeeee&logo=Android&logoColor=3ddb85&label= "Android")
-![](https://img.shields.io/static/v1?style=for-the-badge&message=iOS&color=eeeeee&logo=iOS&logoColor=black&label= "iOS")
+![](http://img.shields.io/static/v1?style=for-the-badge&message=Android&color=eeeeee&logo=Android&logoColor=3ddb85&label= "Android")
+![](http://img.shields.io/static/v1?style=for-the-badge&message=iOS&color=eeeeee&logo=iOS&logoColor=black&label= "iOS")
 
 ### ![](https://cdn.jsdelivr.net/gh/primer/octicons/icons/rocket-24.svg "IDEs / Editors") IDEs / Editors
 
-![](https://img.shields.io/static/v1?style=for-the-badge&message=Visual%20Studio%20Code&color=eeeeee&logo=VisualStudioCode&logoColor=0078D6&label= "Visual Studio Code")
-![](https://img.shields.io/static/v1?style=for-the-badge&message=Notepad%2B%2B&color=eeeeee&logo=Notepad%2B%2B&logoColor=90E59A&label= "Notepad++")
-![](https://img.shields.io/static/v1?style=for-the-badge&message=Nano&color=eeeeee&logo=nano&logoColor=000000&label= "Nano")
+![](http://img.shields.io/static/v1?style=for-the-badge&message=Visual%20Studio%20Code&color=eeeeee&logo=VisualStudioCode&logoColor=0078D6&label= "Visual Studio Code")
+![](http://img.shields.io/static/v1?style=for-the-badge&message=Nano&color=eeeeee&logo=nano&logoColor=000000&label= "Nano")
 
 ### ![](https://cdn.jsdelivr.net/gh/primer/octicons/icons/device-desktop-24.svg "Desktop Operating Systems") Operating Systems
 
-![](https://img.shields.io/static/v1?style=for-the-badge&message=Windows%2010&color=eeeeee&logo=Windows&logoColor=0078D6&label= "Windows 10")
-![](https://img.shields.io/static/v1?style=for-the-badge&message=Ubuntu&color=eeeeee&logo=Ubuntu&logoColor=orange&label= "Ubuntu")
+![](http://img.shields.io/static/v1?style=for-the-badge&message=Windows%2010&color=eeeeee&logo=Windows&logoColor=0078D6&label= "Windows 10")
+![](http://img.shields.io/static/v1?style=for-the-badge&message=Arch%20Linux&color=eeeeee&logo=ArchLinux&logoColor=bule&label= "Arch Linux")
 
 ### 📱 Devices
-[![Xiaomi MI 8 SE](https://img.shields.io/badge/Xiaomi%20MI%208%20SE-ED9121?style=flat-square&logo=xiaomi&logoColor=FFFFFF&labelColor=ED9121)](https://www.mi.com/mi8i/specs)
-[![iPhone 13 Mini](https://img.shields.io/badge/iPhone%2013%20Mini-4F4F4F?style=flat-square&logo=apple&logoColor=FFFFFF&labelColor=4F4F4F)](https://www.apple.com/iphone-13/specs/)
+[![Xiaomi MI 9 SE](http://img.shields.io/badge/Xiaomi%20MI%209%20SE-ED9121?style=flat-square&logo=xiaomi&logoColor=FFFFFF&labelColor=ED9121)](https://www.mi.com/mi9se)
+[![iPhone 13 Mini](http://img.shields.io/badge/iPhone%2013%20Mini-4F4F4F?style=flat-square&logo=apple&logoColor=FFFFFF&labelColor=4F4F4F)](https://www.apple.com/iphone-13/specs/)
 
 ### ![](https://cdn.jsdelivr.net/gh/primer/octicons/icons/mail-24.svg "Chat With Me") Chat With Me
 - 📫 Email: sakurakyuo@protonmail.com
