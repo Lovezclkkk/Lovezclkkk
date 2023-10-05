@@ -1,6 +1,6 @@
 ## Welcome to Sakura桜 (<ゝω·) ~☆
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=xiaoleGun&include_all_commits=true&show_icons=true&theme=buefy&count_private=true&hide_border=true">
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=SakuraKyuo&include_all_commits=true&show_icons=true&theme=buefy&count_private=true&hide_border=true">
 
 ````text
 Ｎ　　　Ｎ
@@ -38,4 +38,4 @@
 ### ![](https://cdn.jsdelivr.net/gh/primer/octicons/icons/mail-24.svg "Chat With Me") Chat With Me
 - 📫 Email: sakurakyuo@protonmail.com
 
-![github contribution grid snake animation](https://github.com/SakuraNotStupid/SakuraNotStupid/raw/snake/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://github.com/SakuraNotStupid/SakuraNotStupid/raw/snake/github-contribution-grid-snake.svg#gh-light-mode-only)
+![github contribution grid snake animation](https://github.com/SakuraKyuo/SakuraKyuo/raw/snake/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://github.com/SakuraKyuo/SakuraKyuo/raw/snake/github-contribution-grid-snake.svg#gh-light-mode-only)
